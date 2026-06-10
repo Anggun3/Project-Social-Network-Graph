@@ -60,38 +60,6 @@ SocialNetworkGraph/
 
 ---
 
-## ⚙️ Cara Menjalankan
-
-### Prasyarat
-- Java JDK 8 atau lebih baru
-- IntelliJ IDEA (rekomendasi) / Eclipse / VS Code
-
-### Langkah-langkah
-
-**1. Clone repository**
-```bash
-git clone https://github.com/username/social-network-graph.git
-cd social-network-graph
-```
-
-**2. Buka di IntelliJ IDEA**
-```
-File → Open → pilih folder project
-```
-
-**3. Jalankan program**
-```
-Klik kanan Main.java → Run 'Main.main()'
-```
-
-**4. Atau compile manual via terminal**
-```bash
-javac *.java
-java Main
-```
-
----
-
 ## 🖥️ Tampilan Program
 
 ```
@@ -169,9 +137,9 @@ Digunakan untuk **Mutual Friends** — mencari irisan dari dua adjacency list.
 ---
 
 ## kelompok 14
-SAFIRA            202401370110233 
-ANGGUN OKTAVIANA  202401370110099
-ZALDA SAFRIZA     202401370110088
+|SAFIRA |          |202401370110233|
+|ANGGUN OKTAVIANA|  |202401370110099|
+|ZALDA SAFRIZA |    |202401370110088|
 
 
 | **Kelas** | Struktur Data — Informatika UMM |
