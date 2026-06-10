@@ -137,9 +137,9 @@ Digunakan untuk **Mutual Friends** — mencari irisan dari dua adjacency list.
 ---
 ```
 ## kelompok 14
-|SAFIRA |             |202401370110233|
-|ANGGUN OKTAVIANA|     |202401370110099|
-|ZALDA SAFRIZA |      |202401370110088|
+SAFIRA            202401370110233
+ANGGUN OKTAVIANA  202401370110099
+ZALDA SAFRIZA     202401370110088
 
 
 | **Kelas** | Struktur Data — Informatika UMM |
